@@ -5,5 +5,5 @@ This is a Google colab implementation of Face Mask detection project.
 <p align="center">SAMPLE OUTPUT <br>
   <img src="https://github.com/AdityaLoth/Mask-Detection-using-Google-Colab/blob/master/download.jpeg" width="700" height="400"></p>
 
-#Working
+# Working
 Open the mask_detection.ipynb file using Google Colab. Rest instructions are mentioned inside the notebook itself. Cheers!
