@@ -1,2 +1,4 @@
 # Mask-Detection-using-Google-Colab
-This is a guided notebook to detect face mask on images and videos.￼ Pull requests Issues Marketplace Explore   ￼  chandrikadeb7 / Face-Mask-Detection  Watch 7 ￼ Unstar207￼ Fork45
+During this pandemic people are coming with various new and creative ideas to tackle Covid-19. One such idea is to detect whether a person is wearing mask or not at public places or at their workplaces. This has been made possible with the help of Deep Learning and Computer Vision.
+This notebook took inspiration from one such [PROJECT](https://github.com/chandrikadeb7/Face-Mask-Detection) by Chandrika Deb.
+This is a Google colab implementation of Face Mask detection project. 
